@@ -1,0 +1,22 @@
+[
+  {
+    "name":"TatvaSoft",
+    "location":"Ahmedabad",
+    "role":"Java Full Stack Developer",
+    "salary":"4-6 LPA"
+  },
+
+  {
+    "name":"Gateway Group",
+    "location":"Ahmedabad",
+    "role":"Software Developer",
+    "salary":"3-5 LPA"
+  },
+
+  {
+    "name":"SPEC INDIA",
+    "location":"Ahmedabad",
+    "role":"Java Developer",
+    "salary":"3-5 LPA"
+  }
+]
